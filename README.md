@@ -14,12 +14,12 @@ How to run the Virtual Tourist app :
 
 The app has two view controller :
 
-Map View :
+- Map View :
 
 On the first screen, It shows the map. You can press long anywhere on the map to generate new pin to see the pictures taken at that place. 
 
 
-Image View :
+- Image View :
 
 When you press the pin it takes you to image view which shows the pictures.
 If you would like to see another picture, you can click "New Collection". 
